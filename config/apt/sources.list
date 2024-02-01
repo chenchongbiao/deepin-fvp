@@ -1,0 +1,5 @@
+deb https://community-packages.deepin.com/new-deepin/ beige main commercial community
+deb [trusted=yes] https://ci.deepin.com/repo/obs/deepin:/stable:/main/stable/ ./
+deb [trusted=yes] https://ci.deepin.com/repo/obs/deepin:/stable:/community/stable/ ./
+deb [trusted=yes] https://ci.deepin.com/repo/obs/deepin:/stable:/dde/stable/ ./
+deb [trusted=yes] https://ci.deepin.com/repo/obs/deepin:/GPL:/Rust/standard/ ./
